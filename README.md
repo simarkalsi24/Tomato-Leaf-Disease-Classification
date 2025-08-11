@@ -15,27 +15,19 @@ This repository presents a deep learning-based approach to classify tomato leaf 
 ```bash
 Tomato-Leaf-Disease-Classification/
 ├── Ant-Lion/
-│   ├── data/
-│   ├── models/
-│   ├── results/
-│   └── scripts/
+│   ├── CNN_Antlion_Optimized.ipynb
+│   └── readme.md
 │
 ├── Dragonfly/
-│   ├── data/
-│   ├── models/
-│   ├── results/
-│   └── scripts/
+│   ├── CNN_Dragonfly_Optimized.ipynb
+│   └── readme.md
 │
 ├── Hybrid-Particle-Swarm-Optimization/
-│   ├── data/
-│   ├── models/
-│   ├── results/
-│   └── scripts/
+│   ├── CNN_Hybrid_PSO_Optimized.ipynb
+│   └── readme.md
 │
 └── Whale-Optimization/
-    ├── data/
-    ├── models/
-    ├── results/
-    └── scripts/
+    ├── CNN_Whale_Optimized.ipynb
+    └── readme.md
 
 
