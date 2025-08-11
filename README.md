@@ -14,8 +14,28 @@ This repository presents a deep learning-based approach to classify tomato leaf 
 
 ```bash
 Tomato-Leaf-Disease-Classification/
-├── Dragon-fly
-├── 
-├── 
-├── 
+├── Ant-Lion/
+│   ├── data/
+│   ├── models/
+│   ├── results/
+│   └── scripts/
+│
+├── Dragonfly/
+│   ├── data/
+│   ├── models/
+│   ├── results/
+│   └── scripts/
+│
+├── Hybrid-Particle-Swarm-Optimization/
+│   ├── data/
+│   ├── models/
+│   ├── results/
+│   └── scripts/
+│
+└── Whale-Optimization/
+    ├── data/
+    ├── models/
+    ├── results/
+    └── scripts/
+
 
